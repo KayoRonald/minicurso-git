@@ -16,6 +16,11 @@ document.getElementById("calcular").addEventListener("click", () =>{
     case "/":
       resultado = valor1 / valor2;
       break;
+    case "%":
+      resultado = valor1 % valor2;
+      break;
+    default:
+      break;
   }
   
   Swal.fire(`${valor1} ${operador} ${valor2} = ${resultado}`);
