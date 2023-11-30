@@ -1,6 +1,6 @@
 # Titulo do projeto
 
-Descricão do projeto
+Descricão do meu projeto
 
 <p align="center">Meu contéudo em html</p>
 

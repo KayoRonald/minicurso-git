@@ -1,0 +1,8 @@
+{
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+}
